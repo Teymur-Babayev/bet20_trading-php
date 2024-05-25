@@ -1,0 +1,61 @@
+FONTLOG for the Neuton fonts
+
+This file provbides detailed information on the Neuton Font Software.
+This information should be distributed along with the Neuton fonts
+and any derivative works.
+
+Basic Font Information
+
+<p>Neuton is a clean, dark, somewhat Dutch-inspired serif font which reminds you a little of Times. It has a large height, short extenders, and a compact width for better screen use, and economy of space.</p> <p>The family will comprise a regular, italic, and cursive, each in five weights and with smallcaps. Two italics — one will be called "italic", and the other "cursive" — are uncommon, but very useful. Ever tried emphasizing something already emphasized? Beyond that obvious example, there are other uses.</p> <p>Sometimes a text needs a different flavor or feel. While one roman can work for a variety of texts, the companion italics don't always. In more classical or personal documents, a stiff, sober, modern and down-to-earth italic will never work. And in many essays, some of the fancier italics look ridiculous. Who said a roman needs only one companion?</p>
+
+Neuton is in continuing development and will come to have:
+- 5 weights, from Extralight to Extrabold
+- Italic and Smallcaps versions
+- A cursive variant
+- Extended width versions
+
+To contribute to the project contact Brian M Zick at artistenator@gmail.com
+
+ChangeLog
+
+29 March 2011 (Brian Zick) Neuton 1.46
+- Redraw Cursive lowercase
+- Added sever missing glyphs to fonts
+- Added Extralight Italic
+
+22 Dec 2011 (Brian Zick) Neuton 1.45
+- Increased ascender height slightly
+- Changed format to match new release requirements better
+- Fixed small problem with lowercase 'g' in Neuton Extrabold
+
+04 Dec 2011 (Brian Zick) Neuton 1.44
+- Added smallcaps for Extralight, Light, Regular, Bold, Extrabold and Italic
+- Redesigned italic lowercase to be more suitable for text
+
+02 Nov 2011 (Brian Zick) Neuton 1.43
+- Character range reduced to Basic Latin + supplementary glyphs
+
+15 Sep 2011 (Brian Zick) Neuton 1.42
+- Removed full text of the OFL and minor tweaks.
+
+22 Jul 2011 (Brian Zick) Neuton 1.41
+- Added Bold and Extrabold weights for Regular version
+
+05 Jul 2011 (Brian Zick) Neuton 1.4
+- Added Light and Extralight weights for Regular version
+- Added Cursive version
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Igino Marini
+E: mail@iginomarini.com
+W: http://www.ikern.com
+D: Spacing and Kerning
+
+N: Brian M Zick
+E: artistenator@gmail.com
+W: http://21326.info
+D: Designer

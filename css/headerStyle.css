@@ -1,0 +1,285 @@
+.back-of-head-color{
+    background: #299573 !important;
+}
+.sing-color {
+    background: #2c2656;
+    color: #ffffff !important;
+    border: 1px dotted #999999 !important;
+}
+.sing-color:hover{
+    background: #E95D51!important;
+
+}
+
+body{
+    background-color: #4C4C4C;
+
+}
+.wrapper{
+    width:70%;
+}
+@media(max-width:992px){
+    .wrapper{
+        width:100%;
+    } 
+}
+
+.content-wrap {
+    padding: 7px;
+
+}
+
+
+
+
+.nv li a{
+    color: #F9F9FA !important;
+}
+.nv li ul li a{
+    color: #00050A !important;
+}
+
+/*modal form*/
+.form-control{
+    height: 40px;
+    box-shadow: none;
+    color: #969fa4;
+}
+.form-control:focus{
+    border-color: #2c2656;
+}
+.form-control, .btn{        
+    border-radius: 3px;
+}
+.signup-form{
+
+    margin: 0 auto;
+
+}
+
+
+.signup-form form{
+    color: #999;
+    border-radius: 3px;
+
+
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    padding: 30px;
+}
+.signup-form .form-group{
+    margin-bottom: 5px;
+}
+.signup-form input[type="checkbox"]{
+    margin-top: 3px;
+}
+.signup-form .btn{        
+    font-size: 16px;
+    font-weight: bold;		
+    min-width: 140px;
+    outline: none !important;
+}
+.signup-form .row div:first-child{
+    padding-right: 10px;
+}
+.signup-form .row div:last-child{
+    padding-left: 10px;
+}    	
+
+.marq {
+    border-left: 4px solid #CD4740;
+    background: #5F5F5F;
+    color: #B7B7B7;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    border-right: 4px solid #299573;
+    margin-bottom: -2px !important;
+    border-right: 4px solid #299573;
+}
+
+/*error message*/
+.load{
+    display: none;
+}
+
+.hideplace{
+    display: none;
+}
+.errorchangeClub{
+    display: none;
+}
+.errorChangePassword{
+    display: none;
+}
+.error{
+    display: none;
+}
+.errorSignIn{
+    display: none;
+}
+.errorPlaceBet{
+    display: none;
+}
+.errorDeposit{
+    display: none;
+}
+.errorWithraw{
+    display: none;
+}
+.errorPassword{
+    display: none;
+}
+
+.errorBalanceTransfer{
+    display: none;
+}
+.successlaceBet{
+    display: none;
+}
+
+.heading-color {
+    background: #299573;
+    border-radius: 0px;
+    border: 0px;
+    border-bottom: 1px solid #939393;
+}
+.nv li a{
+    color: #ffffff!important;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #333;
+    background-color: transparent;
+    border-bottom: 2px solid #FECE44;
+}
+.callaction{
+    margin-top: -19px;
+}
+
+
+
+// #content-desktop {display: none;}
+// #content-mobile {display: block;}
+
+@media screen and (min-width: 768px) {
+
+    // #content-desktop {display: block;}
+    #content-mobile {display: none;}
+
+}
+.buttonrate {
+    border: 0px solid #ffcaca; */
+    background: antiquewhite !important;
+    color: black !important;
+    border-radius: 9px !important;
+    /* border-right: 1px solid #c6b0b0; */
+    /* border-bottom: 1px solid #beb1b1; */
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0px;
+}
+@media screen and (max-width: 760px) {
+.live-result {
+    width: 46%;
+    margin: 4px;
+}
+}
+.live-result {
+    width: 46%;
+    margin: 4px;
+}
+
+.mamu-header {
+    color: #a0a0a0;
+    max-width: 1160px;
+    margin: 0 auto;
+}
+#header {
+	background: #14805E;
+	position: fixed;
+	width: 100%;
+	height:46px;
+	z-index:9999;
+	
+	/* box-shadow: 5px 10px #0e0d0d; */
+}
+#header a {
+	color: #b5b5b5;
+}
+
+/*
+FIXED HEADER
+================================================ */
+#headerwrap.fixed-header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 65px;
+	z-index:100;
+	transition:height 0.3s;
+	color: #cec8c8;
+    background: #14805E;
+}
+
+.transparent-header #headerwrap.fixed-header,
+.transparent-header.lazycrab_builder_active #headerwrap.fixed-header {
+	background-color:#14805E;
+}
+.transparent-header #headerwrap {
+	z-index: 100;
+	background: none;
+	color: #fff;
+}
+
+/* When background of #headerwrap is none, the page should fit to top without padding */
+.transparent-header #pagewrap {
+	padding-top: 0;
+}
+
+
+
+.admin-bar #headerwrap,
+.admin-bar #headerwrap.fixed-header {
+	top: 32px;
+}
+
+#headerwrap.fixed-header #site-description {
+	display: none;
+}
+ 
+/* 
+SITE LOGO
+================================================ */
+#site-logo {
+    padding: 0;
+    line-height: 1em;
+    font-weight: 900;
+    font-size: 2em;
+    z-index: 999;
+    max-width: 100px;
+    float: left;
+    margin-top: 5px;
+}
+#site-logo a {
+	text-decoration: none;
+}
+
+#site-logo a:hover {
+	text-decoration: none;
+}
+.colock {
+ color: aliceblue;
+   padding-left: 162px;
+   margin-top: -35px;
+}
+.log-sign {
+    height: 56px;
+}
+
+@media screen and (max-width: 760px) {
+    .colock{
+        padding-left: 99px;
+    }
+   
+}
+}

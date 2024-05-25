@@ -1,0 +1,283 @@
+[04-Jan-2020 16:02:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[10-Jan-2020 02:54:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[10-Jan-2020 09:02:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[10-Jan-2020 09:11:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[11-Jan-2020 06:56:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[14-Jan-2020 09:42:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[16-Jan-2020 06:24:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[16-Jan-2020 16:39:36 Asia/Dhaka] PHP Warning:  mysqli::query(): Empty query in /home/bdbet65/public_html/lib/Database.php on line 51
+[16-Jan-2020 16:01:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[17-Jan-2020 08:47:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[17-Jan-2020 08:50:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[18-Jan-2020 09:56:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[18-Jan-2020 15:38:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[22-Jan-2020 10:09:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[23-Jan-2020 16:22:06 Asia/Dhaka] PHP Warning:  mysqli::query(): Empty query in /home/bdbet65/public_html/lib/Database.php on line 51
+[24-Jan-2020 10:19:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[25-Jan-2020 16:37:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[26-Jan-2020 00:39:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[26-Jan-2020 00:41:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[26-Jan-2020 03:24:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[26-Jan-2020 23:43:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[27-Jan-2020 00:12:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[27-Jan-2020 00:12:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[28-Jan-2020 01:59:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[28-Jan-2020 02:03:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[28-Jan-2020 02:10:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[28-Jan-2020 05:55:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[28-Jan-2020 13:47:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[29-Jan-2020 16:33:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[29-Jan-2020 18:09:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[31-Jan-2020 09:53:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/chatSend.php:20) in /home/bdbet65/public_html/@ty54w3@/chatSend.php on line 25
+[01-Feb-2020 06:03:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[01-Feb-2020 16:23:19 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/depositWithdrawAction.php on line 249
+[01-Feb-2020 15:10:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[02-Feb-2020 02:36:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[04-Feb-2020 08:49:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[04-Feb-2020 11:28:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[05-Feb-2020 07:18:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[05-Feb-2020 17:50:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[05-Feb-2020 17:52:19 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Feb-2020 09:40:54 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/userToUserBalance.php on line 48
+[06-Feb-2020 05:13:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Feb-2020 05:14:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Feb-2020 05:14:16 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Feb-2020 05:14:47 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Feb-2020 05:15:46 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Feb-2020 05:17:28 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Feb-2020 05:21:50 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Feb-2020 05:42:43 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Feb-2020 08:36:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Feb-2020 14:00:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[06-Feb-2020 14:43:07 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Feb-2020 14:55:38 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Feb-2020 15:03:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Feb-2020 15:18:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[06-Feb-2020 15:43:56 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Feb-2020 15:48:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Feb-2020 16:05:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Feb-2020 16:05:39 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Feb-2020 16:15:15 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[07-Feb-2020 04:28:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[07-Feb-2020 04:29:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[07-Feb-2020 16:56:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[07-Feb-2020 18:42:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[07-Feb-2020 18:42:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[09-Feb-2020 03:14:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[09-Feb-2020 03:58:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[09-Feb-2020 04:00:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[09-Feb-2020 09:20:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[09-Feb-2020 10:54:03 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[09-Feb-2020 11:41:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[09-Feb-2020 18:22:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[10-Feb-2020 06:17:51 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[10-Feb-2020 16:47:14 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 40
+[10-Feb-2020 16:47:40 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 40
+[10-Feb-2020 17:03:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 40
+[11-Feb-2020 03:07:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[11-Feb-2020 05:54:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[11-Feb-2020 07:59:51 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 40
+[11-Feb-2020 08:00:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 40
+[11-Feb-2020 10:07:45 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 40
+[12-Feb-2020 05:50:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[12-Feb-2020 08:46:43 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 40
+[12-Feb-2020 08:46:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 40
+[12-Feb-2020 11:34:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 40
+[12-Feb-2020 12:33:56 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 40
+[12-Feb-2020 18:24:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/chatSend.php:20) in /home/bdbet65/public_html/@ty54w3@/chatSend.php on line 25
+[13-Feb-2020 03:29:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[13-Feb-2020 14:34:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[13-Feb-2020 16:30:24 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[14-Feb-2020 14:59:59 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[14-Feb-2020 15:03:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[14-Feb-2020 15:04:15 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[15-Feb-2020 12:07:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[15-Feb-2020 15:26:31 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[15-Feb-2020 17:52:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[16-Feb-2020 04:58:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[16-Feb-2020 05:45:40 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[16-Feb-2020 05:48:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[16-Feb-2020 12:33:19 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[16-Feb-2020 16:50:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[17-Feb-2020 02:09:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[17-Feb-2020 07:34:00 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[18-Feb-2020 10:55:34 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[18-Feb-2020 12:06:32 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[19-Feb-2020 12:11:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[19-Feb-2020 14:29:24 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[19-Feb-2020 14:31:07 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[19-Feb-2020 18:08:40 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[19-Feb-2020 18:45:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[19-Feb-2020 18:49:48 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[20-Feb-2020 07:47:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[20-Feb-2020 07:47:39 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[20-Feb-2020 12:49:48 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[20-Feb-2020 13:06:13 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[20-Feb-2020 14:00:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[20-Feb-2020 14:00:10 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[21-Feb-2020 01:15:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[21-Feb-2020 01:16:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[21-Feb-2020 01:16:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[21-Feb-2020 01:16:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[21-Feb-2020 01:27:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[21-Feb-2020 08:38:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[21-Feb-2020 13:25:07 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[21-Feb-2020 13:47:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[22-Feb-2020 02:47:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[22-Feb-2020 10:31:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[22-Feb-2020 17:17:36 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[22-Feb-2020 17:18:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[23-Feb-2020 03:53:11 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[23-Feb-2020 12:02:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[24-Feb-2020 03:26:55 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[24-Feb-2020 03:45:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[24-Feb-2020 06:20:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[24-Feb-2020 06:27:07 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[24-Feb-2020 06:59:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[24-Feb-2020 07:03:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[24-Feb-2020 07:04:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[24-Feb-2020 11:31:43 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[24-Feb-2020 11:59:08 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[24-Feb-2020 16:28:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[24-Feb-2020 19:07:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[25-Feb-2020 02:45:40 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[25-Feb-2020 04:28:45 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[25-Feb-2020 09:10:45 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[25-Feb-2020 14:24:51 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[25-Feb-2020 14:42:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[25-Feb-2020 17:44:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[27-Feb-2020 11:16:56 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/userToUserBalance.php on line 48
+[27-Feb-2020 08:58:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[27-Feb-2020 09:34:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[27-Feb-2020 12:14:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[27-Feb-2020 18:27:04 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[28-Feb-2020 09:23:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[28-Feb-2020 16:34:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[28-Feb-2020 16:39:48 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[29-Feb-2020 00:59:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[29-Feb-2020 09:58:31 Asia/Dhaka] PHP Warning:  mysqli::query(): Empty query in /home/bdbet65/public_html/lib/Database.php on line 51
+[29-Feb-2020 11:56:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[29-Feb-2020 11:56:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[29-Feb-2020 11:58:14 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[29-Feb-2020 13:04:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[29-Feb-2020 18:35:14 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[29-Feb-2020 19:24:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[01-Mar-2020 04:18:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[01-Mar-2020 07:20:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[01-Mar-2020 08:08:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[01-Mar-2020 11:06:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[01-Mar-2020 19:07:51 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[02-Mar-2020 01:02:24 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[02-Mar-2020 02:14:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/chatSend.php:20) in /home/bdbet65/public_html/@ty54w3@/chatSend.php on line 25
+[02-Mar-2020 04:26:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[02-Mar-2020 12:21:21 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[02-Mar-2020 13:50:36 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[02-Mar-2020 14:46:21 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[02-Mar-2020 14:47:12 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[02-Mar-2020 14:48:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[02-Mar-2020 14:48:58 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[02-Mar-2020 14:49:34 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[02-Mar-2020 14:53:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[02-Mar-2020 14:56:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[02-Mar-2020 14:56:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[02-Mar-2020 20:08:56 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[03-Mar-2020 04:18:28 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[04-Mar-2020 06:31:31 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[04-Mar-2020 13:31:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[04-Mar-2020 17:10:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[04-Mar-2020 17:11:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[04-Mar-2020 17:12:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[05-Mar-2020 02:36:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/chatSend.php:20) in /home/bdbet65/public_html/@ty54w3@/chatSend.php on line 25
+[05-Mar-2020 03:08:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[05-Mar-2020 04:28:47 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[05-Mar-2020 04:31:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[05-Mar-2020 04:32:00 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[05-Mar-2020 04:32:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[05-Mar-2020 11:34:40 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/depositWithdrawAction.php:95) in /home/bdbet65/public_html/@ty54w3@/depositWithdrawAction.php on line 99
+[05-Mar-2020 11:34:49 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/depositWithdrawAction.php:95) in /home/bdbet65/public_html/@ty54w3@/depositWithdrawAction.php on line 99
+[05-Mar-2020 12:16:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[06-Mar-2020 02:58:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[06-Mar-2020 02:59:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[06-Mar-2020 02:59:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[06-Mar-2020 03:08:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[06-Mar-2020 03:08:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[06-Mar-2020 03:08:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[06-Mar-2020 10:12:28 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[06-Mar-2020 12:35:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[06-Mar-2020 17:44:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[06-Mar-2020 18:36:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[07-Mar-2020 05:28:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[07-Mar-2020 05:52:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[08-Mar-2020 04:21:12 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[08-Mar-2020 05:35:46 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[08-Mar-2020 05:42:34 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[08-Mar-2020 05:45:04 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[08-Mar-2020 08:27:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[08-Mar-2020 12:40:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[08-Mar-2020 15:50:38 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[09-Mar-2020 04:26:04 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[09-Mar-2020 08:11:28 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[09-Mar-2020 15:10:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[10-Mar-2020 11:48:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[10-Mar-2020 14:59:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[11-Mar-2020 14:58:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[11-Mar-2020 15:01:50 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[11-Mar-2020 21:17:32 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 39
+[11-Mar-2020 21:17:32 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 47
+[11-Mar-2020 21:17:32 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/searchAction.php:39) in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 122
+[11-Mar-2020 21:17:38 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 39
+[11-Mar-2020 21:17:38 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 47
+[11-Mar-2020 21:17:38 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/searchAction.php:39) in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 122
+[11-Mar-2020 21:17:42 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 39
+[11-Mar-2020 21:17:42 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 47
+[11-Mar-2020 21:17:42 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/searchAction.php:39) in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 122
+[11-Mar-2020 21:17:49 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 39
+[11-Mar-2020 21:17:49 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 47
+[11-Mar-2020 21:17:49 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/searchAction.php:39) in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 122
+[11-Mar-2020 21:18:00 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 39
+[11-Mar-2020 21:18:00 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 47
+[11-Mar-2020 21:18:00 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/searchAction.php:39) in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 122
+[11-Mar-2020 21:39:16 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 39
+[11-Mar-2020 21:39:16 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 47
+[11-Mar-2020 21:39:16 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/searchAction.php:39) in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 122
+[11-Mar-2020 21:39:23 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 39
+[11-Mar-2020 21:39:23 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 47
+[11-Mar-2020 21:39:23 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/searchAction.php:39) in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 122
+[11-Mar-2020 21:40:00 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 39
+[11-Mar-2020 21:40:00 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 47
+[11-Mar-2020 21:40:00 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/searchAction.php:39) in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 122
+[11-Mar-2020 21:43:57 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 39
+[11-Mar-2020 21:43:57 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 47
+[11-Mar-2020 21:43:57 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/searchAction.php:39) in /home/bdbet65/public_html/@ty54w3@/searchAction.php on line 122
+[11-Mar-2020 17:08:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[12-Mar-2020 05:11:11 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[12-Mar-2020 05:47:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[12-Mar-2020 17:15:27 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[12-Mar-2020 17:42:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[12-Mar-2020 17:42:38 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[12-Mar-2020 17:42:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[12-Mar-2020 17:51:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[13-Mar-2020 16:08:46 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[14-Mar-2020 03:49:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[14-Mar-2020 03:51:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[14-Mar-2020 03:52:31 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[14-Mar-2020 09:39:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[15-Mar-2020 18:05:47 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[16-Mar-2020 12:29:21 Asia/Dhaka] PHP Warning:  mysqli::query(): Empty query in /home/bdbet65/public_html/lib/Database.php on line 51
+[16-Mar-2020 15:34:26 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[16-Mar-2020 15:47:39 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[16-Mar-2020 15:51:24 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[16-Mar-2020 16:00:26 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[16-Mar-2020 16:01:03 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[16-Mar-2020 16:01:07 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[17-Mar-2020 17:39:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[17-Mar-2020 17:44:21 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[17-Mar-2020 17:45:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[18-Mar-2020 14:55:44 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[23-Mar-2020 07:44:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[24-Mar-2020 06:52:55 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[24-Mar-2020 15:48:26 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[24-Mar-2020 15:48:47 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[24-Mar-2020 15:49:00 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/@ty54w3@/clubInbox.php on line 199
+[25-Mar-2020 00:26:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdbet65/public_html/@ty54w3@/header.php:132) in /home/bdbet65/public_html/@ty54w3@/closedMatch.php on line 15
+[26-Mar-2020 14:00:15 Asia/Dhaka] PHP Warning:  mysqli::query(): Empty query in /home/bdbet65/public_html/lib/Database.php on line 51

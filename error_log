@@ -1,0 +1,871 @@
+[26-Jan-2020 11:21:57 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[26-Jan-2020 11:21:57 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[26-Jan-2020 11:22:03 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[26-Jan-2020 11:22:03 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[26-Jan-2020 11:22:21 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[26-Jan-2020 11:22:21 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[29-Jan-2020 18:02:37 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 18:02:41 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 18:02:44 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 18:02:57 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 18:04:53 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 18:04:55 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 18:05:03 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 18:05:05 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 18:06:18 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 18:06:21 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 18:06:25 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 18:15:51 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 19:16:25 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 19:16:30 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 19:16:59 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 19:18:06 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 19:18:10 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 19:18:32 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 19:21:13 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 19:21:17 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 19:21:19 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 19:28:50 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 19:30:06 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 19:32:28 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 19:36:59 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 19:40:54 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 20:27:10 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 20:27:13 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 20:29:38 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 20:32:31 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 20:34:17 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 20:36:11 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 20:36:32 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 20:37:40 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 20:49:36 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 20:49:54 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 20:49:58 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 20:50:00 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 20:50:02 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 22:46:56 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 22:47:00 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 22:47:02 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 22:47:05 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[29-Jan-2020 22:47:08 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[30-Jan-2020 14:53:30 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[30-Jan-2020 14:53:38 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[30-Jan-2020 14:53:59 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[30-Jan-2020 14:54:02 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[30-Jan-2020 14:54:22 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[30-Jan-2020 14:54:28 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 13:50:18 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 13:50:43 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 13:50:51 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 13:51:16 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 13:51:31 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 13:51:42 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 13:52:16 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 13:52:22 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 13:52:30 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 14:09:04 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 14:09:22 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 14:09:27 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 14:09:49 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 14:10:04 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 14:10:25 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 14:10:50 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 14:10:55 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 14:20:50 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 14:21:06 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 14:21:23 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 14:24:57 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 14:36:58 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 14:37:18 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 14:37:23 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 14:37:41 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 14:37:46 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 16:53:30 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 16:53:49 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 16:53:54 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 16:54:13 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 17:12:05 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 17:12:08 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 17:12:11 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 17:12:40 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 17:12:51 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[31-Jan-2020 17:13:24 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 09:27:26 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 09:27:29 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 14:59:42 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 14:59:45 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 16:19:57 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 16:20:07 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 17:11:55 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 17:12:02 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 17:12:05 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 17:12:17 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 17:36:13 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 17:36:17 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 17:36:19 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 17:36:21 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 17:36:23 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 17:36:32 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 17:36:36 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 17:36:38 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 20:47:07 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 20:47:12 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 20:47:16 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Feb-2020 20:47:26 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Feb-2020 00:24:42 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Feb-2020 00:24:45 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Feb-2020 00:24:47 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Feb-2020 11:45:16 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Feb-2020 14:37:30 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Feb-2020 14:53:35 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Feb-2020 14:53:39 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Feb-2020 16:48:35 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Feb-2020 16:48:41 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Feb-2020 16:48:43 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Feb-2020 16:48:46 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Feb-2020 16:48:48 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Feb-2020 16:49:02 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Feb-2020 16:49:07 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Feb-2020 16:49:09 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Feb-2020 16:49:12 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Feb-2020 16:49:14 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Feb-2020 14:34:51 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Feb-2020 14:34:55 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 00:10:01 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 00:10:05 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 00:50:26 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 00:51:12 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 00:51:19 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 14:16:53 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[04-Feb-2020 14:16:53 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[04-Feb-2020 14:17:06 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[04-Feb-2020 14:17:06 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[04-Feb-2020 14:17:29 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[04-Feb-2020 14:17:29 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[04-Feb-2020 14:18:08 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[04-Feb-2020 14:18:09 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[04-Feb-2020 14:18:33 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[04-Feb-2020 14:18:33 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[04-Feb-2020 14:23:35 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 18
+[04-Feb-2020 14:23:37 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 18
+[04-Feb-2020 14:23:38 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 18
+[04-Feb-2020 14:23:39 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 18
+[04-Feb-2020 14:23:40 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 18
+[04-Feb-2020 15:21:41 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:21:46 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:21:49 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:21:53 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:22:22 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:22:24 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:22:34 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:22:40 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:22:51 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:22:54 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:22:56 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:22:58 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:23:02 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:23:11 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:23:14 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:23:16 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:23:19 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:23:23 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:23:31 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:23:36 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:57:49 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:58:21 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:58:45 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 15:58:50 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 16:04:36 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 16:05:05 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 16:05:09 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 16:07:46 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 16:07:49 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 19:59:53 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 19:59:58 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:00:02 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:00:56 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:01:00 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:01:03 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:01:07 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:01:11 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:01:56 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:02:00 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:04:24 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:04:28 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:08:30 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:15:18 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:15:21 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:16:23 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:17:18 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:35:03 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:35:08 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:35:38 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:35:41 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:36:25 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:37:07 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:37:35 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:37:57 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:38:01 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:39:50 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:39:53 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:40:41 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:40:52 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:40:56 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:41:21 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:41:24 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:42:32 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:42:37 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:42:41 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Feb-2020 20:42:44 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 07:51:06 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[05-Feb-2020 07:51:06 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[05-Feb-2020 07:51:26 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[05-Feb-2020 07:51:26 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[05-Feb-2020 08:39:20 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 08:39:24 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 08:44:00 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 08:44:22 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 08:45:31 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 08:45:35 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 08:49:55 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 08:50:42 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 08:50:47 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 08:50:51 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 11:21:48 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 11:21:52 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 11:22:04 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 11:22:22 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 11:22:25 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 11:23:05 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 18:52:53 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 18:53:44 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 18:54:56 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 18:56:43 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 18:56:48 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 22:50:14 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Feb-2020 22:50:18 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[06-Feb-2020 00:43:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[06-Feb-2020 00:43:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[06-Feb-2020 00:43:31 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[06-Feb-2020 00:43:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[06-Feb-2020 00:43:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[06-Feb-2020 00:43:31 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[06-Feb-2020 11:04:36 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[06-Feb-2020 11:04:38 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[06-Feb-2020 15:40:37 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[06-Feb-2020 15:40:41 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[06-Feb-2020 15:41:10 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[06-Feb-2020 15:41:29 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[06-Feb-2020 15:41:55 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[06-Feb-2020 15:42:52 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[06-Feb-2020 15:42:52 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[06-Feb-2020 15:42:55 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[06-Feb-2020 15:42:55 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[06-Feb-2020 15:42:59 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[06-Feb-2020 15:42:59 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[06-Feb-2020 15:43:05 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[06-Feb-2020 15:43:05 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[06-Feb-2020 15:43:12 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[06-Feb-2020 15:43:12 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[06-Feb-2020 18:12:10 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[06-Feb-2020 18:12:15 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[06-Feb-2020 21:25:27 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[06-Feb-2020 21:25:30 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[06-Feb-2020 21:29:16 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[06-Feb-2020 21:29:16 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[06-Feb-2020 21:29:33 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[06-Feb-2020 21:29:33 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[06-Feb-2020 21:29:38 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[06-Feb-2020 21:29:38 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[06-Feb-2020 21:29:46 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[06-Feb-2020 21:29:46 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[06-Feb-2020 21:29:47 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[06-Feb-2020 21:29:47 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[06-Feb-2020 21:31:17 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[06-Feb-2020 21:31:17 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[06-Feb-2020 21:31:37 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[06-Feb-2020 21:31:37 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[06-Feb-2020 21:31:59 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[06-Feb-2020 21:31:59 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[07-Feb-2020 03:14:30 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 03:14:36 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 03:15:28 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 03:15:35 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 03:16:01 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 09:52:47 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[07-Feb-2020 09:52:47 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[07-Feb-2020 09:53:12 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[07-Feb-2020 09:53:12 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[07-Feb-2020 09:53:17 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[07-Feb-2020 09:53:17 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[07-Feb-2020 09:53:43 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[07-Feb-2020 09:53:43 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[07-Feb-2020 09:56:35 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[07-Feb-2020 09:56:35 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[07-Feb-2020 09:56:37 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[07-Feb-2020 09:56:37 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[07-Feb-2020 12:29:32 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 12:29:59 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 13:20:14 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 13:20:42 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 13:24:43 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 13:24:46 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 13:38:04 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 14:44:25 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 14:48:58 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 14:49:52 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 14:49:56 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 14:50:01 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 14:50:04 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 14:56:11 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 14:56:32 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 14:56:35 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 14:58:58 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 14:59:01 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[07-Feb-2020 23:00:57 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[07-Feb-2020 23:00:57 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[07-Feb-2020 23:03:20 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[07-Feb-2020 23:03:20 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[08-Feb-2020 16:38:50 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[09-Feb-2020 09:18:22 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[09-Feb-2020 09:18:26 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[09-Feb-2020 09:18:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[09-Feb-2020 09:19:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[09-Feb-2020 18:10:26 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[09-Feb-2020 18:10:30 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[09-Feb-2020 18:10:50 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[09-Feb-2020 20:51:24 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[09-Feb-2020 20:51:31 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[10-Feb-2020 10:54:47 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[10-Feb-2020 10:54:47 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[10-Feb-2020 11:01:50 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[10-Feb-2020 11:01:50 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[11-Feb-2020 13:49:38 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[11-Feb-2020 13:49:42 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[11-Feb-2020 13:49:46 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[12-Feb-2020 18:51:24 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[12-Feb-2020 18:51:52 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[12-Feb-2020 18:55:21 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 18:55:36 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 18:55:44 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 18:55:49 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 18:56:00 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 18:56:06 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 18:56:10 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 22
+[12-Feb-2020 18:57:29 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 18:58:50 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 19:00:45 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 19:03:11 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 19:03:37 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 19:06:45 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 19:08:06 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 19:08:21 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 19:08:24 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 19:08:30 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 19:17:35 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 20:11:15 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 20:11:21 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[12-Feb-2020 23:20:22 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[12-Feb-2020 23:21:34 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[12-Feb-2020 23:21:39 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[12-Feb-2020 23:27:18 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[12-Feb-2020 23:27:23 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[13-Feb-2020 08:12:20 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[13-Feb-2020 11:22:54 UTC] PHP Fatal error:  Call to a member function select() on null in /home/bdbet65/public_html/innerLabelOne.php on line 3
+[13-Feb-2020 17:26:43 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[13-Feb-2020 17:58:51 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[13-Feb-2020 17:58:54 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[13-Feb-2020 12:19:58 UTC] PHP Warning:  include(../lib/Database.php): failed to open stream: No such file or directory in /home/bdbet65/public_html/p.php on line 3
+[13-Feb-2020 12:19:58 UTC] PHP Warning:  include(../lib/Database.php): failed to open stream: No such file or directory in /home/bdbet65/public_html/p.php on line 3
+[13-Feb-2020 12:19:58 UTC] PHP Warning:  include(): Failed opening '../lib/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdbet65/public_html/p.php on line 3
+[13-Feb-2020 12:19:58 UTC] PHP Fatal error:  Class 'Database' not found in /home/bdbet65/public_html/p.php on line 4
+[13-Feb-2020 12:21:11 UTC] PHP Warning:  include(../lib/Database.php): failed to open stream: No such file or directory in /home/bdbet65/public_html/p.php on line 3
+[13-Feb-2020 12:21:11 UTC] PHP Warning:  include(../lib/Database.php): failed to open stream: No such file or directory in /home/bdbet65/public_html/p.php on line 3
+[13-Feb-2020 12:21:11 UTC] PHP Warning:  include(): Failed opening '../lib/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdbet65/public_html/p.php on line 3
+[13-Feb-2020 12:21:11 UTC] PHP Fatal error:  Class 'Database' not found in /home/bdbet65/public_html/p.php on line 4
+[13-Feb-2020 12:21:45 UTC] PHP Warning:  include(../lib/Database.php): failed to open stream: No such file or directory in /home/bdbet65/public_html/p.php on line 3
+[13-Feb-2020 12:21:45 UTC] PHP Warning:  include(../lib/Database.php): failed to open stream: No such file or directory in /home/bdbet65/public_html/p.php on line 3
+[13-Feb-2020 12:21:45 UTC] PHP Warning:  include(): Failed opening '../lib/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdbet65/public_html/p.php on line 3
+[13-Feb-2020 12:21:45 UTC] PHP Fatal error:  Class 'Database' not found in /home/bdbet65/public_html/p.php on line 4
+[13-Feb-2020 12:22:02 UTC] PHP Warning:  include(../lib/Database.php): failed to open stream: No such file or directory in /home/bdbet65/public_html/p.php on line 3
+[13-Feb-2020 12:22:02 UTC] PHP Warning:  include(../lib/Database.php): failed to open stream: No such file or directory in /home/bdbet65/public_html/p.php on line 3
+[13-Feb-2020 12:22:02 UTC] PHP Warning:  include(): Failed opening '../lib/Database.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdbet65/public_html/p.php on line 3
+[13-Feb-2020 12:22:02 UTC] PHP Fatal error:  Class 'Database' not found in /home/bdbet65/public_html/p.php on line 4
+[13-Feb-2020 18:44:03 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[13-Feb-2020 23:09:19 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[13-Feb-2020 19:49:05 UTC] PHP Fatal error:  Call to a member function select() on null in /home/bdbet65/public_html/defultUpcoming.php on line 4
+[14-Feb-2020 20:04:54 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[16-Feb-2020 16:16:25 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[16-Feb-2020 16:16:25 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[16-Feb-2020 14:54:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[18-Feb-2020 11:53:52 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[18-Feb-2020 11:53:52 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[18-Feb-2020 20:34:56 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[18-Feb-2020 20:34:56 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[18-Feb-2020 22:56:44 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[18-Feb-2020 22:56:45 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[18-Feb-2020 23:51:52 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[20-Feb-2020 09:49:53 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[20-Feb-2020 09:49:53 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[20-Feb-2020 12:44:33 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[20-Feb-2020 12:44:33 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[20-Feb-2020 18:36:21 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[20-Feb-2020 18:36:21 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[20-Feb-2020 21:56:47 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[20-Feb-2020 21:57:30 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[20-Feb-2020 22:00:12 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[20-Feb-2020 22:12:38 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[20-Feb-2020 22:22:39 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[20-Feb-2020 22:22:46 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[20-Feb-2020 22:23:03 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[20-Feb-2020 22:23:07 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[20-Feb-2020 22:24:48 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[20-Feb-2020 22:25:53 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[20-Feb-2020 22:26:04 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[20-Feb-2020 22:28:00 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[20-Feb-2020 22:33:55 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[20-Feb-2020 22:35:39 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[20-Feb-2020 22:45:31 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 10:56:36 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 11:20:48 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 11:21:03 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 11:31:12 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 11:35:57 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 11:43:42 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 11:43:46 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 11:43:49 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 11:43:51 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 11:43:53 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 11:43:55 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 11:43:57 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 12:02:16 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 12:33:18 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 12:33:28 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 12:34:27 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 12:35:13 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 12:39:02 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 12:39:12 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 14:13:00 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[21-Feb-2020 14:13:00 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[21-Feb-2020 14:13:06 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[21-Feb-2020 14:13:06 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[21-Feb-2020 14:13:17 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[21-Feb-2020 14:13:17 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[21-Feb-2020 14:13:50 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[21-Feb-2020 14:13:50 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[21-Feb-2020 15:23:55 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[21-Feb-2020 15:23:55 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[21-Feb-2020 19:21:44 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[21-Feb-2020 20:55:23 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[21-Feb-2020 20:55:23 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[22-Feb-2020 11:44:25 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[22-Feb-2020 11:44:25 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[22-Feb-2020 11:44:47 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[22-Feb-2020 11:44:47 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[22-Feb-2020 11:45:11 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[22-Feb-2020 11:45:11 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[22-Feb-2020 19:27:18 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[22-Feb-2020 19:27:18 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[23-Feb-2020 18:43:50 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 18:44:27 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 18:45:30 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 18:48:02 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 18:48:21 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 18:49:02 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 18:49:48 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 18:52:01 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 18:54:39 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 18:56:43 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 19:49:31 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 19:49:36 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 19:49:40 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 19:49:52 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 19:50:00 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 19:50:04 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 19:50:32 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 19:50:36 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 19:52:53 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 19:52:59 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 19:53:02 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[23-Feb-2020 19:53:08 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[24-Feb-2020 12:35:46 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[24-Feb-2020 12:35:51 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[25-Feb-2020 23:37:14 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[25-Feb-2020 23:37:14 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[25-Feb-2020 23:37:43 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[25-Feb-2020 23:37:43 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[26-Feb-2020 18:52:48 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[26-Feb-2020 18:53:29 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[27-Feb-2020 11:45:55 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[27-Feb-2020 11:46:08 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[27-Feb-2020 11:46:15 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[27-Feb-2020 11:46:30 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[27-Feb-2020 11:46:35 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[27-Feb-2020 07:25:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[27-Feb-2020 07:25:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[27-Feb-2020 07:25:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[27-Feb-2020 15:55:13 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[27-Feb-2020 15:55:30 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[27-Feb-2020 16:59:00 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[27-Feb-2020 16:59:00 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[27-Feb-2020 16:59:05 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[27-Feb-2020 16:59:05 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[27-Feb-2020 16:59:11 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[27-Feb-2020 16:59:11 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[27-Feb-2020 16:59:36 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[27-Feb-2020 16:59:36 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[28-Feb-2020 01:41:31 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[28-Feb-2020 12:58:19 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[28-Feb-2020 12:58:21 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[28-Feb-2020 12:58:24 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Mar-2020 21:38:02 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Mar-2020 21:38:51 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Mar-2020 21:38:57 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Mar-2020 21:39:17 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Mar-2020 21:39:26 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Mar-2020 21:39:29 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[01-Mar-2020 21:40:05 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 07:09:22 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 07:09:25 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 07:09:27 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:04:40 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:15:38 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:16:19 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:16:25 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:16:51 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:17:07 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:17:11 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:17:13 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:17:16 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:17:18 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:17:26 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:18:23 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:18:27 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:18:30 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:18:32 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:18:35 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:19:53 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:23:21 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:23:26 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:23:29 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:27:56 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:29:38 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:36:15 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:36:20 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:36:37 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:36:42 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:36:44 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:36:52 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:37:19 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:37:22 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:37:24 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:37:28 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:37:31 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:38:41 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:38:44 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:38:59 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:39:54 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:41:24 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:41:49 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:43:31 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:44:08 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:44:12 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:45:50 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:46:41 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:47:25 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:48:42 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:49:41 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:49:46 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:49:48 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:50:39 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:50:43 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:50:57 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:51:01 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:51:04 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:51:06 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:51:30 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:51:34 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:51:37 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:51:39 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:53:07 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:53:13 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:53:17 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:53:19 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:59:07 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 19:59:11 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 20:00:05 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 20:01:38 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 20:01:45 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 20:03:25 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 20:03:31 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 20:05:47 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 20:10:37 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 20:10:56 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 20:10:59 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 20:11:41 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 20:11:46 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 20:13:20 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[02-Mar-2020 21:10:39 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Mar-2020 08:15:56 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Mar-2020 11:12:37 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Mar-2020 11:12:46 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Mar-2020 11:14:07 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Mar-2020 11:17:27 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Mar-2020 11:17:30 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Mar-2020 11:17:36 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Mar-2020 11:20:24 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Mar-2020 05:20:32 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[03-Mar-2020 05:20:49 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[03-Mar-2020 05:21:06 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[03-Mar-2020 11:23:22 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Mar-2020 11:23:24 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Mar-2020 11:23:34 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Mar-2020 11:25:32 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Mar-2020 11:25:38 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Mar-2020 11:30:13 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Mar-2020 11:30:42 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[03-Mar-2020 20:22:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[03-Mar-2020 20:22:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[03-Mar-2020 20:22:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[03-Mar-2020 20:23:20 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[04-Mar-2020 04:38:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[04-Mar-2020 17:04:13 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Mar-2020 17:04:32 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[04-Mar-2020 17:04:51 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[05-Mar-2020 00:43:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[05-Mar-2020 00:43:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:14 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[05-Mar-2020 00:43:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:14 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[05-Mar-2020 00:43:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:14 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[05-Mar-2020 00:43:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:14 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[05-Mar-2020 00:43:15 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:15 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[05-Mar-2020 00:43:15 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:15 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[05-Mar-2020 00:43:15 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:15 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:16 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[05-Mar-2020 00:43:16 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:16 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:16 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[05-Mar-2020 00:43:16 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:16 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:16 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[05-Mar-2020 00:43:16 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[05-Mar-2020 00:43:16 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[07-Mar-2020 19:02:21 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[09-Mar-2020 06:45:09 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[09-Mar-2020 18:32:10 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[09-Mar-2020 18:36:05 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[09-Mar-2020 22:07:00 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[11-Mar-2020 15:28:14 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[11-Mar-2020 18:41:57 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[12-Mar-2020 22:25:52 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[12-Mar-2020 23:42:12 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[12-Mar-2020 23:42:55 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[14-Mar-2020 02:05:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[14-Mar-2020 02:05:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[14-Mar-2020 02:05:59 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[14-Mar-2020 05:32:58 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/withdrawCancel.php on line 33
+[14-Mar-2020 12:04:00 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 12:04:00 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[14-Mar-2020 12:04:14 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 12:04:14 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[14-Mar-2020 12:04:27 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 12:04:27 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[14-Mar-2020 12:04:37 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 12:04:37 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[14-Mar-2020 12:05:03 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 12:05:03 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[14-Mar-2020 12:05:06 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 12:05:06 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[14-Mar-2020 12:05:09 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 12:05:09 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[14-Mar-2020 12:05:34 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 12:05:34 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[14-Mar-2020 12:06:06 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 12:06:06 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[14-Mar-2020 12:10:51 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 12:10:51 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[14-Mar-2020 12:10:53 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 12:10:53 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[14-Mar-2020 12:13:12 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 12:13:12 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[14-Mar-2020 12:13:13 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 12:13:13 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[14-Mar-2020 20:20:40 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 20:20:40 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[14-Mar-2020 20:20:43 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 20:20:43 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[14-Mar-2020 20:23:11 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 20:23:11 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[14-Mar-2020 20:23:13 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 20:23:13 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[14-Mar-2020 20:23:27 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[14-Mar-2020 20:23:27 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[15-Mar-2020 13:53:46 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[15-Mar-2020 13:53:46 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[15-Mar-2020 13:54:00 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[15-Mar-2020 13:54:00 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[15-Mar-2020 13:54:09 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[15-Mar-2020 13:54:09 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[15-Mar-2020 14:05:14 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[15-Mar-2020 14:05:14 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[15-Mar-2020 14:05:21 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[15-Mar-2020 14:05:21 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[15-Mar-2020 14:34:24 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[15-Mar-2020 14:34:24 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[15-Mar-2020 14:34:28 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[15-Mar-2020 14:34:28 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[16-Mar-2020 16:34:50 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[16-Mar-2020 16:34:50 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[16-Mar-2020 16:34:52 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[16-Mar-2020 16:34:52 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[17-Mar-2020 08:52:38 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[17-Mar-2020 08:52:38 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[17-Mar-2020 08:52:44 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[17-Mar-2020 08:52:44 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[17-Mar-2020 09:08:20 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[17-Mar-2020 09:08:23 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[19-Mar-2020 00:45:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[19-Mar-2020 00:45:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[19-Mar-2020 00:45:13 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[19-Mar-2020 00:45:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[19-Mar-2020 00:45:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[19-Mar-2020 00:45:13 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[19-Mar-2020 00:45:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[19-Mar-2020 00:45:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[19-Mar-2020 00:45:13 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[19-Mar-2020 00:45:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[19-Mar-2020 00:45:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[19-Mar-2020 00:45:13 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[19-Mar-2020 00:45:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[19-Mar-2020 00:45:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[19-Mar-2020 00:45:13 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[19-Mar-2020 00:45:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/bdbet65/public_html/lib/Database.php on line 21
+[19-Mar-2020 00:45:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[19-Mar-2020 00:45:14 UTC] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/bdbet65/public_html/lib/Database.php on line 31
+[20-Mar-2020 21:54:28 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[20-Mar-2020 21:54:28 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[20-Mar-2020 21:54:32 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[20-Mar-2020 21:54:32 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[23-Mar-2020 08:39:07 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[23-Mar-2020 08:39:07 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[23-Mar-2020 08:39:14 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 279
+[23-Mar-2020 08:39:14 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 475
+[26-Mar-2020 16:04:56 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 180
+[27-Mar-2020 11:25:36 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 276
+[27-Mar-2020 11:25:36 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 472
+[27-Mar-2020 11:26:37 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 18
+[27-Mar-2020 11:26:48 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 276
+[27-Mar-2020 11:26:48 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 472
+[27-Mar-2020 11:27:05 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 276
+[27-Mar-2020 11:27:05 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 472
+[27-Mar-2020 11:27:58 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 276
+[27-Mar-2020 11:27:58 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 472
+[27-Mar-2020 11:28:27 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 276
+[27-Mar-2020 11:28:27 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 472
+[27-Mar-2020 11:28:36 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/bdbet65/public_html/placeBet.php on line 18
+[27-Mar-2020 11:28:42 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 276
+[27-Mar-2020 11:28:42 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 472
+[27-Mar-2020 11:28:48 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 276
+[27-Mar-2020 11:28:48 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 472
+[27-Mar-2020 11:28:58 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 276
+[27-Mar-2020 11:28:58 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 472
+[27-Mar-2020 11:29:09 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 276
+[27-Mar-2020 11:29:09 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 472
+[27-Mar-2020 11:30:30 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 276
+[27-Mar-2020 11:30:30 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 472
+[27-Mar-2020 11:30:41 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 276
+[27-Mar-2020 11:30:41 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbet65/public_html/header.php on line 472
+[02-Apr-2020 16:20:58 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 272
+[02-Apr-2020 16:20:58 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 272
+[02-Apr-2020 16:20:58 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 468
+[02-Apr-2020 16:20:58 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 468
+[02-Apr-2020 16:20:58 Asia/Dhaka] PHP Warning:  A non-numeric value encountered in /home/bdbetcom/public_html/header.php on line 468
+[02-Apr-2020 16:21:13 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 272
+[02-Apr-2020 16:21:13 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 272
+[02-Apr-2020 16:21:13 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 468
+[02-Apr-2020 16:21:13 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 468
+[02-Apr-2020 16:21:13 Asia/Dhaka] PHP Warning:  A non-numeric value encountered in /home/bdbetcom/public_html/header.php on line 468
+[05-Apr-2020 10:31:06 Asia/Dhaka] PHP Notice:  Undefined index: userId in /home/bdbetcom/public_html/clubHistory.php on line 135
+[06-Apr-2020 22:48:15 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 272
+[06-Apr-2020 22:48:15 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 272
+[06-Apr-2020 22:48:15 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 468
+[06-Apr-2020 22:48:15 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 468
+[06-Apr-2020 22:48:15 Asia/Dhaka] PHP Warning:  A non-numeric value encountered in /home/bdbetcom/public_html/header.php on line 468
+[06-Apr-2020 22:49:06 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 272
+[06-Apr-2020 22:49:06 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 272
+[06-Apr-2020 22:49:06 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 468
+[06-Apr-2020 22:49:06 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 468
+[06-Apr-2020 22:49:06 Asia/Dhaka] PHP Warning:  A non-numeric value encountered in /home/bdbetcom/public_html/header.php on line 468
+[06-Apr-2020 23:02:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/bdbetcom/public_html/placeBet.php:180
+Stack trace:
+#0 {main}
+  thrown in /home/bdbetcom/public_html/placeBet.php on line 180
+[07-Apr-2020 21:02:53 Asia/Dhaka] PHP Notice:  Undefined index: userId in /home/bdbetcom/public_html/clubMember.php on line 130
+[07-Apr-2020 21:27:28 Asia/Dhaka] PHP Notice:  Undefined index: userId in /home/bdbetcom/public_html/clubHistory.php on line 135
+[08-Apr-2020 22:28:46 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 272
+[08-Apr-2020 22:28:46 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 272
+[08-Apr-2020 22:28:46 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 468
+[08-Apr-2020 22:28:46 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 468
+[08-Apr-2020 22:28:46 Asia/Dhaka] PHP Warning:  A non-numeric value encountered in /home/bdbetcom/public_html/header.php on line 468
+[08-Apr-2020 22:28:54 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 272
+[08-Apr-2020 22:28:54 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 272
+[08-Apr-2020 22:28:55 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 468
+[08-Apr-2020 22:28:55 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 468
+[08-Apr-2020 22:28:55 Asia/Dhaka] PHP Warning:  A non-numeric value encountered in /home/bdbetcom/public_html/header.php on line 468
+[12-Apr-2020 07:16:31 Asia/Dhaka] PHP Notice:  Undefined index: userId in /home/bdbetcom/public_html/clubHistory.php on line 135
+[15-Apr-2020 12:25:21 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/bdbetcom/public_html/placeBet.php:180
+Stack trace:
+#0 {main}
+  thrown in /home/bdbetcom/public_html/placeBet.php on line 180
+[15-Apr-2020 12:25:41 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/bdbetcom/public_html/placeBet.php:180
+Stack trace:
+#0 {main}
+  thrown in /home/bdbetcom/public_html/placeBet.php on line 180
+[15-Apr-2020 23:34:47 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 272
+[15-Apr-2020 23:34:47 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 272
+[15-Apr-2020 23:34:47 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 468
+[15-Apr-2020 23:34:47 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 468
+[15-Apr-2020 23:34:47 Asia/Dhaka] PHP Warning:  A non-numeric value encountered in /home/bdbetcom/public_html/header.php on line 468
+[15-Apr-2020 23:34:52 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 272
+[15-Apr-2020 23:34:52 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 272
+[15-Apr-2020 23:34:52 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 468
+[15-Apr-2020 23:34:52 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 468
+[15-Apr-2020 23:34:52 Asia/Dhaka] PHP Warning:  A non-numeric value encountered in /home/bdbetcom/public_html/header.php on line 468
+[18-Apr-2020 22:31:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/bdbetcom/public_html/placeBet.php:180
+Stack trace:
+#0 {main}
+  thrown in /home/bdbetcom/public_html/placeBet.php on line 180
+[19-Apr-2020 00:02:36 Asia/Dhaka] PHP Notice:  Undefined index: userId in /home/bdbetcom/public_html/clubHistory.php on line 135
+[19-Apr-2020 00:02:56 Asia/Dhaka] PHP Notice:  Undefined index: userId in /home/bdbetcom/public_html/clubHistory.php on line 135
+[20-Apr-2020 22:35:07 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 272
+[20-Apr-2020 22:35:07 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 272
+[20-Apr-2020 22:35:07 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 468
+[20-Apr-2020 22:35:07 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 468
+[20-Apr-2020 22:35:07 Asia/Dhaka] PHP Warning:  A non-numeric value encountered in /home/bdbetcom/public_html/header.php on line 468
+[20-Apr-2020 22:36:20 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 272
+[20-Apr-2020 22:36:20 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 272
+[20-Apr-2020 22:36:20 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 468
+[20-Apr-2020 22:36:20 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 468
+[20-Apr-2020 22:36:20 Asia/Dhaka] PHP Warning:  A non-numeric value encountered in /home/bdbetcom/public_html/header.php on line 468
+[20-Apr-2020 22:36:40 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 272
+[20-Apr-2020 22:36:40 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 272
+[20-Apr-2020 22:36:40 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 468
+[20-Apr-2020 22:36:40 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 468
+[20-Apr-2020 22:36:40 Asia/Dhaka] PHP Warning:  A non-numeric value encountered in /home/bdbetcom/public_html/header.php on line 468
+[21-Apr-2020 15:33:55 Asia/Dhaka] PHP Notice:  Undefined index: userId in /home/bdbetcom/public_html/clubHistory.php on line 135
+[23-Apr-2020 15:48:35 Asia/Dhaka] PHP Notice:  Undefined index: userId in /home/bdbetcom/public_html/clubHistory.php on line 135
+[23-Apr-2020 15:49:02 Asia/Dhaka] PHP Notice:  Undefined index: userId in /home/bdbetcom/public_html/clubMember.php on line 130
+[25-Apr-2020 14:15:21 Asia/Dhaka] PHP Warning:  Illegal string offset 'balance' in /home/bdbetcom/public_html/header.php on line 272
+[25-Apr-2020 14:15:21 Asia/Dhaka] PHP Notice:  Uninitialized string offset: 0 in /home/bdbetcom/public_html/header.php on line 272

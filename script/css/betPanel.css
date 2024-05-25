@@ -1,0 +1,51 @@
+
+    #accordion .panel{
+        border: none;
+        border-radius: 0;
+        box-shadow: none;
+        /* margin: 0 30px 10px 30px;*/
+        overflow: hidden;
+        position: relative;
+        margin-bottom: -7px !important;
+    }
+    #accordion .panel-heading{
+        padding: 0;
+        border: none;
+        border-radius: 0;
+        position: relative;
+    }
+    #accordion .panel-title a{
+        display: block;
+        padding: 8px 22px;
+        margin: 0;
+        background: #145C51;
+        font-size: 14px;
+        font-weight: 700;
+
+        color: #fff;
+        border-radius: 0;
+        position: relative;
+    }
+   .upcoming_panel {
+	background: #46555D !important;
+}
+
+
+
+
+    #accordion .panel-body{
+        border: 3px solid #145C51;
+        border-top: none;
+        background: #31353a;
+        /* font-size: 15px; */
+        color: #1c2336;
+        line-height: 27px;
+        position: relative;
+        margin-top: -8px !important;
+    }
+    #accordion .panel-body-2{border-top: none;background: #5d6165;/* font-size: 15px; */color: #eeeeee;line-height: 27px;position: relative;margin-top: -8px !important;}
+
+    #accordion .panel-body p{
+        padding: 10px;
+    }
+    //modal resize
